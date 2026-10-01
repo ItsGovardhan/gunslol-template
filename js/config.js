@@ -10,7 +10,7 @@ const CONFIG = {
   profileName:   "Neon",      // name shown on the card
   nameTooltip:   "Oñooo",         // tooltip on hover over the name
   nameEffect:    "noise",         // "noise" = TV interference | "none" = plain text
-  statusText:    "🏃🏿‍➡️ Isso é muita areia hoje...", // text below the name (typewriter effect)
+  statusText:    "Beggining To The End...", // text below the name (typewriter effect)
   tabTitle:      "Neon𝔯",      // animated browser tab title
   entrySymbol:   "¥",            // symbol shown on the entry screen
 
@@ -46,8 +46,8 @@ const CONFIG = {
   // ----------------------------------------------------------
   // DISCORD (static — no API, edit manually)
   // ----------------------------------------------------------
-  discordUsername: "Jofagg_",
-  discordStatus:   "acalme-se vadia...",
+  discordUsername: "neon_playzzzzz",
+  discordStatus:   "reomve dev noob curse",
   discordAvatar:   "assets/discord-avatar.jpg",
   discordAvatarSize:   "74px",
   discordAvatarBorder: "2px solid rgba(200, 27, 27, 0.15)",
@@ -59,11 +59,11 @@ const CONFIG = {
   // Add, remove or reorder. "icon" = path inside assets/icons/
   // ----------------------------------------------------------
   socialLinks: [
-    { name: "Instagram", url: "https://instagram.com/user",         icon: "assets/icons/instagram.png" },
-    { name: "Spotify",   url: "https://open.spotify.com/user", icon: "assets/icons/spotify.png"   },
-    { name: "TikTok",    url: "https://www.tiktok.com/user",           icon: "assets/icons/tiktok.png"    },
-    { name: "OnlyFans",  url: "https://onlyfans.com/user",          icon: "assets/icons/onlyfans.png"  },
-    { name: "Github",  url: "https://github.com/user",          icon: "assets/icons/github.png"  },
+    { name: "Instagram", url: "https://www.instagram.com/neon_playzzzzz?stkn=MXNsbG1vdnEwdnN4NA==",         icon: "assets/icons/instagram.png" },
+    { name: "Spotify",   url: "", icon: "assets/icons/spotify.png"   },
+    { name: "TikTok",    url: "",           icon: "assets/icons/tiktok.png"    },
+    { name: "OnlyFans",  url: "",          icon: "assets/icons/onlyfans.png"  },
+    { name: "Github",  url: "",          icon: "assets/icons/github.png"  },
 ,
   ],
   iconSize:         "36px",
