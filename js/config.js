@@ -7,17 +7,17 @@ const CONFIG = {
   // ----------------------------------------------------------
   // PROFILE
   // ----------------------------------------------------------
-  profileName:   "𝔍𝔢𝔣𝔢𝔯",      // name shown on the card
+  profileName:   "Neon",      // name shown on the card
   nameTooltip:   "Oñooo",         // tooltip on hover over the name
   nameEffect:    "noise",         // "noise" = TV interference | "none" = plain text
   statusText:    "🏃🏿‍➡️ Isso é muita areia hoje...", // text below the name (typewriter effect)
-  tabTitle:      "@𝔍𝔢𝔣𝔢𝔯",      // animated browser tab title
-  entrySymbol:   "⛧",            // symbol shown on the entry screen
+  tabTitle:      "Neon𝔯",      // animated browser tab title
+  entrySymbol:   "¥",            // symbol shown on the entry screen
 
   // ----------------------------------------------------------
   // FILES — place them in assets/ with these exact names
   // ----------------------------------------------------------
-  avatar:              "assets/avatar.jpg",
+  avatar:              "assets/avatar.png",
   backgroundVideo:     "assets/background.mp4",
   customCursor:        "assets/cursor.png",
   customCursorHotspot: "0 0",    // "0 0" = tip of the cursor (top-left corner)
