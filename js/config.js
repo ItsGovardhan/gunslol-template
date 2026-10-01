@@ -90,7 +90,7 @@ const CONFIG = {
   // ----------------------------------------------------------
   // COLORS / STYLE
   // ----------------------------------------------------------
-  usernameGlow: "0 0 16.5px #acc8ff", // name glow ("none" to disable)
+  usernameGlow: "0 0 16.5px #FF7F7F", // name glow ("none" to disable)
 
   // ----------------------------------------------------------
   // BACKGROUND PARTICLES
