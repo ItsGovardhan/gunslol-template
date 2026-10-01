@@ -37,7 +37,6 @@ const CONFIG = {
     { icon: "assets/badges/badge1.png",    label: "Owner"    },
     { icon: "assets/badges/badge2.png", label: "Verified" },
     { icon: "assets/badges/badge3.png",  label: "Partner"  },
-    { icon: "assets/badges/hate.gif",     label: "hate"     },
   ],
   badgeSize:                "22px",
   badgeContainerBackground: "rgba(172, 200, 255, 0.08)",
