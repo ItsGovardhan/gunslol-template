@@ -46,7 +46,7 @@ const CONFIG = {
   // DISCORD (static — no API, edit manually)
   // ----------------------------------------------------------
   discordUsername: "neon_playzzzzz",
-  discordStatus:   "reomve dev noob curse",
+  discordStatus:   "I am doing fine",
   discordAvatar:   "assets/discord-avatar.jpg",
   discordAvatarSize:   "74px",
   discordAvatarBorder: "2px solid rgba(200, 27, 27, 0.15)",
