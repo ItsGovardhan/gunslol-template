@@ -18,7 +18,7 @@ const CONFIG = {
   // FILES — place them in assets/ with these exact names
   // ----------------------------------------------------------
   avatar:              "assets/avatar.png",
-  backgroundVideo:     "assets/background.mp4",
+  backgroundVideo:     "assets/0e502d048879ff8546c5471951a8ace6_720w.mp4",
   customCursor:        "assets/cursor.png",
   customCursorHotspot: "0 0",    // "0 0" = tip of the cursor (top-left corner)
 
