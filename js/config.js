@@ -34,9 +34,9 @@ const CONFIG = {
   // Add, remove or reorder. "icon" = path inside assets/badges/
   // ----------------------------------------------------------
   badges: [
-    { icon: "assets/badges/owner.png",    label: "Owner"    },
-    { icon: "assets/badges/verified.png", label: "Verified" },
-    { icon: "assets/badges/partner.png",  label: "Partner"  },
+    { icon: "assets/badges/badge1.png",    label: "Owner"    },
+    { icon: "assets/badges/badge2.png", label: "Verified" },
+    { icon: "assets/badges/badge3.png",  label: "Partner"  },
     { icon: "assets/badges/hate.gif",     label: "hate"     },
   ],
   badgeSize:                "22px",
